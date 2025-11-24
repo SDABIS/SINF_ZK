@@ -1,0 +1,22 @@
+{
+  "name": "practica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "prueba.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "circomlib": "^2.0.5",
+    "circomlibjs": "^0.1.7",
+    "crypto": "^1.0.1",
+    "express": "^5.1.0",
+    "fs": "^0.0.1-security",
+    "readline-sync": "^1.4.10",
+    "snarkjs": "^0.7.5"
+  }
+}
